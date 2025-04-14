@@ -1,7 +1,7 @@
 # XRP-Dashboard
 
 
-Short Description:
+
 XRPredict is a real-time XRP coin price prediction model designed to help traders and enthusiasts make informed decisions using advanced machine learning techniques. By analyzing historical data, market trends, and patterns, the model provides accurate and timely forecasts for XRP prices. The predictions are visualized through an interactive web interface to enhance user experience and insights.
 
 
